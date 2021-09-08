@@ -1,0 +1,28 @@
+{
+  "name": "asincronismojavascript",
+  "version": "1.0.0",
+  "description": "Se usan los termino de asincronismo, como poyecto final nos conectaremos con una Api",
+  "main": "src/index.html",
+  "scripts": {
+    "callback": "node src/callback/index.js ",
+    "callback:challenge": "node src/callback/challenge.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanSerranoGit/asincronismoJavascript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Ivan Serrano contacto.ivanserrano@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanSerranoGit/asincronismoJavascript/issues"
+  },
+  "homepage": "https://github.com/IvanSerranoGit/asincronismoJavascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
